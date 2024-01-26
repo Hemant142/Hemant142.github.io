@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f7d6d23.css",
-    "main.js": "/static/js/main.b966ef15.js",
+    "main.css": "/static/css/main.e72437ad.css",
+    "main.js": "/static/js/main.1ff75b4a.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/woodencrafts.png": "/static/media/woodencrafts.6eab5f8d13693ab3897c.png",
     "static/media/fashntra.png": "/static/media/fashntra.1d9d59a708bfa961083d.png",
@@ -15,12 +15,12 @@
     "static/media/express.svg": "/static/media/express.d39bd255a1e339b18192aa5c1989e6f8.svg",
     "index.html": "/index.html",
     "static/media/chakraui.svg": "/static/media/chakraui.cf8ffbe8542d7bf1c439768c5c39b27e.svg",
-    "main.7f7d6d23.css.map": "/static/css/main.7f7d6d23.css.map",
-    "main.b966ef15.js.map": "/static/js/main.b966ef15.js.map",
+    "main.e72437ad.css.map": "/static/css/main.e72437ad.css.map",
+    "main.1ff75b4a.js.map": "/static/js/main.1ff75b4a.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f7d6d23.css",
-    "static/js/main.b966ef15.js"
+    "static/css/main.e72437ad.css",
+    "static/js/main.1ff75b4a.js"
   ]
 }
